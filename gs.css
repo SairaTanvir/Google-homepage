@@ -1,0 +1,36 @@
+﻿ul {
+  list-style-type: none;
+  }
+
+li a {
+  display: block;
+  padding: 14px 16px;
+  }
+
+#nav  a {
+display: block;
+padding: 14px 16px;
+float: right;
+text-decoration: none;
+text-align: center;
+}
+
+#image .image {
+display:block;
+width: 272px;
+height: auto;
+left: calc(50% - 272px/2);
+position: fixed;
+margin-top: 100px;
+
+}
+
+#text-query {
+width: 400px;
+height: 25px;
+border-radius: 15px;
+left: calc(50% - 400px/2);
+position: absolute;
+backgroud-color: #fff;
+margin-top: 135px;
+}
